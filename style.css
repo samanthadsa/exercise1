@@ -1,0 +1,23 @@
+.color{
+	color:red;
+}
+aside section p{
+	border: 1px solid red;
+	font-family: "comic sans"; 
+}
+
+p {
+font-family: Arial;
+font-size: 17px;
+margin: 2px 5px;
+padding: 5px;
+border: 1px 2px 3px;
+color: black;
+
+/*
+
+selector {
+	property: value;
+}
+
+*/
